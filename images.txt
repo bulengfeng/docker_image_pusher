@@ -1,5 +1,5 @@
-#nginx
-remsky/kokoro-fastapi:cpu-latest
+nginx
+#remsky/kokoro-fastapi:cpu-latest
 #ghcr.io/open-webui/open-webui:ollama
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
