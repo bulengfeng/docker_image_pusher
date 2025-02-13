@@ -3,6 +3,9 @@
 #ghcr.io/open-webui/open-webui:ollama
 # ghcr.io/open-webui/open-webui:cuda
 quay.io/prometheus-operator/prometheus-operator:v0.63.0
+quay.io/prometheus/alertmanager:v0.25.0
+quay.io/prometheus/node-exporter:v1.5.0
+quay.io/prometheus/prometheus:v2.42.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
