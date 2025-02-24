@@ -16,6 +16,7 @@ quay.io/prometheus/prometheus:v3.1.0
 prom/prometheus:v2.53.3
 prom/pushgateway:v1.11.0
 easzlab/kubeasz:3.6.5
+easzlab/kubeasz-k8s-bin:v1.31.2
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
