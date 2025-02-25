@@ -18,6 +18,11 @@ prom/pushgateway:v1.11.0
 easzlab/kubeasz:3.6.5
 easzlab/kubeasz-k8s-bin:v1.31.2
 easzlab/kubeasz-ext-bin:1.11.1
+easzlab/kubeasz-sys-pkg:1.0.2
+easzlab/harbor-offline:v2.11.1
+calico/kube-controllers:v3.28.2
+calico/node:v3.28.2
+calico/cni:v3.28.2
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
