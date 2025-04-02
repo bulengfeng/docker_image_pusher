@@ -15,6 +15,7 @@ kiwigrid/k8s-sidecar:1.30.2
 memcached:1.6.38-alpine
 prom/memcached-exporter:v0.15.2
 docker.io/nginxinc/nginx-unprivileged:1.27-alpine
+cr.fluentbit.io/fluent/fluent-bit:3.2.8
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
