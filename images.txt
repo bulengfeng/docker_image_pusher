@@ -3,6 +3,8 @@
 #ghcr.io/open-webui/open-webui:ollama
 # ghcr.io/open-webui/open-webui:cuda
 cr.fluentbit.io/fluent/fluent-bit:3.2.8
+apache/doris:fe-3.0.4
+apache/doris:be-3.0.4
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
