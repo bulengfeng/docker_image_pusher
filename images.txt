@@ -8,7 +8,6 @@ apache/doris:be-3.0.4
 grafana/grafana:11.6.0
 grafana/grafana:10.4.17
 mysql:8.0
-dm8:dm8_20241230_rev255012_x86_rh6_64
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
