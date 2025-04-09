@@ -16,7 +16,8 @@ flink:1.20.1-scala_2.12-java8
 flink:1.20.1-java8
 flink
 starrocks/cn-ubuntu:3.3-latest
-starrocks/fe-ubuntu:3.3-latest:
+starrocks/fe-ubuntu:3.3-latest
+starrocks/allin1-ubuntu:3.2.6
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
