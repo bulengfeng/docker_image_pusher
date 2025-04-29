@@ -13,9 +13,7 @@
 # starrocks/dev-env-ubuntu:3.4.1
 # starrocks/dev-env-centos7:3.4.1
 # ireneshi/selectdb-webui:1.0.4-bugfix
-siglens/siglens:1.0.39
-docker.io/otel/opentelemetry-collector:latest
-jaegertracing/example-hotrod:1.53
+apache/kafka:4.0.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
