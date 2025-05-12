@@ -15,7 +15,7 @@
 # ireneshi/selectdb-webui:1.0.4-bugfix
 # apache/kafka:4.0.0
 # provectuslabs/kafka-ui:latest
-node:20.19.1-slim
+node:20.19.1
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
