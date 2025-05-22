@@ -15,9 +15,7 @@
 # ireneshi/selectdb-webui:1.0.4-bugfix
 # apache/kafka:4.0.0
 # provectuslabs/kafka-ui:latest
-mysql:8.0.34
-redis:5.0.13
-rabbitmq:3.7.7
+rabbitmq:3.7.7-management
 nacos/nacos-server:v2.5.1
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
