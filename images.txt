@@ -18,7 +18,7 @@
 # node:20.19.6
 # n8nio/n8n:2.1.5
 # n8nio/runners:2.1.5
-grafana/grafana:13.0.0-22696220628
+apachepinot/pinot:1.0.0-11-amazoncorretto
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
